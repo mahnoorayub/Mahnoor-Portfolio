@@ -2,12 +2,15 @@
 
 - Web page URL:  https://mahnoorayub.github.io/Mahnoor-Portfolio/
 
-# Portfolio
+
 This is my public portfolio for Telling Stories with Data at CMU!  All my work from the assignments and the final project will be included here.  
 
 # About me
-My name is Mahnoor Ayub. I am a graduate student at Carnegie Mellon University pursuing my degree in Public Policy and Management - Data Analytics.
-Before coming to Carnegie Mellon I did my undergraduate degree in Accounting and Finance and then work for two years as a Solutions Consultant. 
+My name is Mahnoor Ayub. I am a graduate student at Carnegie Mellon University pursuing my degree in Public Policy and Management-Data Analytics.
+
+Before coming to Carnegie Mellon I did my undergraduate degree in Accounting and Finance and then worked for two years as a Solutions Consultant. 
+
+My future career goals include working as a Product Manager/ Business Strategy Consultant/ Data Analyst. 
 
 # What I hope to learn
 With the help of this class: 
