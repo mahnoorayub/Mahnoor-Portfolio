@@ -23,7 +23,7 @@ With the help of this class:
 # Portfolio
 This section will include the class assignments and project
 
-## Assignment: Data visualization #1(/visualizing-government-debt.md)
+## [Assignment: Data visualization #1](/visualizing-government-debt.md)
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12584737"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
  
