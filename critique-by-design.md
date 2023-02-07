@@ -67,12 +67,23 @@ Keeping the things mentioned in the previous section in mind, I made the followi
 
 Here I have used a grid of bar charts, with emphasis on the energy sector as it is the source contributing to major chunk of pollutnats. I have kept the all other industries in grey colour to reduce the distracting colours. The non-industry sector is technically the highest contributor but I have also removed emphasis from that so we can focus primarily on the industry sectors as that is what this chart is trying to compare. 
 
-I tried some other possible ways of visualizing this data as well as shown below. 
+I tried some other possible ways of visualizing this data as shown below (these are rough visualizations with no proper styling or formating). 
+
+Side-side circles
+Instead of bars I had thought of using circles as a possible visualization. It was able to highligh with sector contribute the most for each pollutant (and i could highlight the energy sector with red colour). However they were hard to compare with one another and did not seem to be the best option.
+![bubblechart](Screenshot 2023-02-07 at 2.15.20 PM.png)
+
+Grid of cbar-charts with axis inversed.
+This option I tried to see if I could group together the data for each sector instead of grouping together for each pollutant. This was able to show what pollutant each sector is the highest contributor for. But again here the problem was that the data is given in percentages. If the data was in the total amounts of emiisions then this could have been a good option to compare how much of each pollutant a specific sector is responsible for. The percentages in the data are a percentage of that pollutants total emissions and not a percentage of that sectors total pollution hence this was not a good option. 
+![barcharts](Screenshot 2023-02-07 at 2.30.23 PM.png)
+
+Lastly I also tried to check what a grid of pie-charts could look like. In this current visualization I have yet not tried to remove the colours perhaps greying out some options would have made it look better but I realized this was not very different from the original visualization and does not enhance the usuability of the data so I ignored this option as well. 
+![piecharts](Screenshot 2023-02-07 at 2.17.30 PM.png)
 
 
+After comparing all the possible options I thought that the grid of bar charts was the most appropriate option, so I used that for the next step. 
 
-
-However after comparing all the possible options I thought that the grid of bar charts was the most appropriate option. 
+## Step four: Test the solution
 
 
 
