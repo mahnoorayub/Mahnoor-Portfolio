@@ -25,9 +25,8 @@ This section will include the class assignments and project.
 
 ## [Assignment: Data visualization #1](/visualizing-government-debt.md)
 
- 
 
-## Assignment 3&4: Critique by Design
+## Assignment 3&4: [Critique by Design](critique-by-design)
  
 
 ## Final project
