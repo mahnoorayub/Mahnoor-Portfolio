@@ -48,7 +48,7 @@ The way the information is presented in terms of percentages also makes it hard 
 
 ### What would you do differently?
 
--	I would have used a grid a of bar charts (or pie charts or bubble charts) to show each pollutant separately, so it is easier to understand. 
+-	I would have used a grid a of bar charts (or pie charts or bubble charts) to show each pollutant separately, so it is easier to understand and compare. 
 -	I would want to give a message out of this chart that is obvious in the heading for example “Energy Sector is the highest source of air emissions for most pollutants”. Through this I would keep the other low emission causing sectors greyed out and highlight this particular sector. This would also reduce the distracting colors in the chart and make it more appealing to the eye.
 -	I would keep the numbers consistent, either use decimals or percentages.
 -	If the data was available, instead of showing total 100% I would show the amounts of emissions caused by each sector and then the total emissions for the pollutant. This would make it easier to compare the individual sectors and pollutants with one another.
@@ -70,25 +70,25 @@ Here I have used a grid of bar charts, with emphasis on the energy sector as it 
 I tried some other possible ways of visualizing this data as shown below (these are rough visualizations with no proper styling or formating). 
 
 Side-side circles
-Instead of bars I had thought of using circles as a possible visualization. It was able to highligh with sector contribute the most for each pollutant (and i could highlight the energy sector with red colour). However they were hard to compare with one another and did not seem to be the best option.
+Instead of bars I had thought of using circles as a possible visualization. It was able to highligh which sector contributes the most for each pollutant (and i could highlight the energy sector with red colour). However they were hard to compare with one another and did not seem to be the best option. This chart again would be ranked low in terms of perceptibility. completeness and intuitivness
 
 ![bubblechart](Screenshot 2023-02-07 at 2.15.20 PM.png)
 
 Grid of cbar-charts with axis inversed.
-This option I tried to see if I could group together the data for each sector instead of grouping together for each pollutant. This was able to show what pollutant each sector is the highest contributor for. But again here the problem was that the data is given in percentages. If the data was in the total amounts of emiisions then this could have been a good option to compare how much of each pollutant a specific sector is responsible for. The percentages in the data are a percentage of that pollutants total emissions and not a percentage of that sectors total pollution hence this was not a good option. 
+This option I tried to see if I could group together the data for each sector instead of grouping together for each pollutant. This was able to show which pollutant each sector is the highest contributor for. But again here the problem was that the data is given in percentages. If the data was in the total amounts of emiisions then this could have been a good option to compare how much of each pollutant a specific sector is responsible for. The percentages in the data are a percentage of that pollutants total emissions and not a percentage of that sectors total pollution hence this was not a good option. 
 
 ![barcharts](Screenshot 2023-02-07 at 2.30.23 PM.png)
 
-Lastly I also tried to check what a grid of pie-charts could look like. In this current visualization I have yet not tried to remove the colours perhaps greying out some options would have made it look better but I realized this was not very different from the original visualization and does not enhance the usuability of the data so I ignored this option as well. 
+Lastly I also tried to check what a grid of pie-charts could look like. In this current visualization I have not yet done all the formatting but made a rough structure. I realized this was not very different from the original visualization in terms of the intuitiveness and engagement and does not enhance the usuability of the data so I ignored this option as well. 
 
-![piecharts](Screenshot 2023-02-07 at 2.17.30 PM.png)
+<div class="flourish-embed flourish-chart" data-src="visualisation/12668777"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
 After comparing all the possible options I thought that the grid of bar charts was the most appropriate option, so I used that for the next step. 
 
 ## Step four: Test the solution
 
-I test my sketch with two different people who are not a part of the course to get some feedback on my sketch. I asked both of them the same questions (see below) and at the end showed them the original visualization as well. 
+I tested my sketch with two different people who are not a part of the course to get some feedback on my sketch. I asked both of them the same questions (see below) and at the end showed them the original visualization as well. 
 
 They gave the following responses 
 
@@ -129,14 +129,16 @@ Florusih was simple to use and I was able to create excatly what I had in mind. 
 
 Once the main chart was created, I customized the colours to have the energy industry sector in red, non-industry sector in light grey and all other sectors in dark grey. This was to show that while non-industry is the highest contributor we are focusing on the emissions from the industry sectors and from the industry sectors primarily on the energy sector. 
 
-I adjusted the layout of the chart according to my needs and added a filter that allows you to choose which pollutants you want to look at. 
+I adjusted the layout of the chart according to my needs and added a filter that allows you to choose which pollutants you want to look at incorporated from class group feedback). 
 
 I also added a relevant heading incorporating the feedback I got " Energy Sector has the highest air emissions for EEA in 2017"
 
-I included the notes and subtitle explaining for the percentages are calculated and what the EEA countries stand for. 
+I included the notes and subtitle explaining how the percentages are calculated and what the EEA countries stand for. 
 
 I made sure all the numbers are consistent - the x axis shows percentages and the lable pop-ups also show percentages instead of decimal numbers like the original chart. 
 
+Ultimately I made the chart for an audience that would be able to look at it and see that if they want to control the emissions for a particular pollutant which industries are causing the most harm. This can allow policy makers to prioritize and make corrective policies for that industry sector specifically. 
+This chart has greater perceptibility as it require less effort from the reader to make the comparisons. The less use of colour and focus on the energy sector also enhances the intuitiveness and aethetics. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12666699"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
