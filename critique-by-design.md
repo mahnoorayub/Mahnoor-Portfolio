@@ -20,12 +20,11 @@ Air pollution has been a major concern in my country (Pakistan) in the past few 
 
 ## Step 2: critique the data visualization
 
+The visualization was showing relevant information in terms of the air emissions for EEA-33 by each sector however there was too much colour and poor perceptibility, engagement and intuitiveness. The aesthetics could have been greatly improved to give the readers a better understanding. 
 
-The visualization is showing relevant information in terms of the air emissions for EEA-33 by each sector however there is too much colour and poor perceptibility, engagement and intuitiveness. The aesthetics could have been greatly improved to give the readers a better understanding. 
+What worked?
 
-### What worked in this visualization?
-
-The visualization does a good job of showing all different air emission pollutants and uses a stacked bar chart to show the percentage contributed by each source. The good thing is you can get a quick idea of which sectors are producing the highest levels of emissions. 
+The visualization does a good job of showing all different air emission pollutants and uses a stacked bar chart to show the percentage contributed by each source. The good thing was you can get a quick idea of which sectors are producing the highest levels of emissions. 
 
 The heading, legend and notes provide relevant information needed to interpret the chart. 
 
@@ -34,7 +33,7 @@ The chart uses a concise format to represent a lot of information. It is showing
 While the chart might be hard to interpret just by looking at it, if you hover over a single bar, it gives the breakdown of numbers from each source thus increasing the usability of the chart. 
 
 
-### What didn’t work?
+What didn’t work?
 
 The chart is using a lot of distracting colors, with some sources having similar colors. 
 
@@ -47,13 +46,14 @@ It is also hard to compare a single industry and see how much pollution it is ca
 
 The way the information is presented in terms of percentages also makes it hard to compare the pollutants with one another as it is showing the total 100% of the emissions of that pollutant but not the actual amount that is released. For example, from this chart you cannot tell whether there are greater emissions for CO2 or SOx which is critical information for the audience looking at this topic and thus reduces completeness and usefulness.
 
-### What I would like to change?
+What would you do differently?
 
 -	I would have used a grid a of bar charts (or pie charts or bubble charts) to show each pollutant separately, so it is easier to understand. 
 -	I would want to give a message out of this chart that is obvious in the heading for example “Energy Sector is the highest source of air emissions for most pollutants”. Through this I would keep the other low emission causing sectors greyed out and highlight this particular sector. This would also reduce the distracting colors in the chart and make it more appealing to the eye.
 -	I would keep the numbers consistent, either use decimals or percentages.
 -	If the data was available, instead of showing total 100% I would show the amounts of emissions caused by each sector and then the total emissions for the pollutant. This would make it easier to compare the individual sectors and pollutants with one another.
-![image](https://user-images.githubusercontent.com/116768418/217339253-f14ee9e9-0e52-418e-9672-e9e3a9528137.png)
+
+
 
 
 ## Step three: sketch out a solution
