@@ -4,4 +4,4 @@
 
 ## Step 1 
 
-![original visualization](Screenshot 2023-02-06 at 10.10.52 AM.png)
+![originalvisualization](Screenshot 2023-02-06 at 10.10.52 AM.png)
