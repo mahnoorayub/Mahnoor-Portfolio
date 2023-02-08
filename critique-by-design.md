@@ -61,7 +61,7 @@ The way the information is presented in terms of percentages also makes it hard 
 Keeping the things mentioned in the previous section in mind, I made the following sketch for a possible redesign. 
 
 
-
+![sketch](sketch.jpeg)
 
 
 
