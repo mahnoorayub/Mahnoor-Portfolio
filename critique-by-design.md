@@ -61,11 +61,12 @@ The way the information is presented in terms of percentages also makes it hard 
 Keeping the things mentioned in the previous section in mind, I made the following sketch for a possible redesign. 
 
 
-![sketch](sketch.jpeg)
+![sketch](Screenshot 2023-02-07 at 7.14.12 PM.png)
 
 
+Here I have used a grid of bar charts, with emphasis on the energy sector(in red) as it is the source contributing to major chunk of pollutnats. I have kept the all other industries in grey colour to reduce the distracting colours. The non-industry sector is technically the highest contributor but I have also removed emphasis from that so we can focus primarily on the industry sectors as that is what this chart is trying to compare. 
 
-Here I have used a grid of bar charts, with emphasis on the energy sector as it is the source contributing to major chunk of pollutnats. I have kept the all other industries in grey colour to reduce the distracting colours. The non-industry sector is technically the highest contributor but I have also removed emphasis from that so we can focus primarily on the industry sectors as that is what this chart is trying to compare. 
+The grid of bar charts works better than the stacked bar charts in the original visualization as you can see all components separately making it easier to compare. 
 
 I tried some other possible ways of visualizing this data as shown below (these are rough visualizations with no proper styling or formating). 
 
@@ -92,34 +93,55 @@ I tested my sketch with two different people who are not a part of the course to
 
 They gave the following responses 
 
-Person 1 
+#### Person 1 (mid- 20's, student)
 Q. Can you tell me what you think this is?
+
+Answer 1. Seems like a visualization for pollutant emissions for different industries.
 
 Q. Can you describe to me what this is telling you?
 
+Answer 1. That energy supply is the industry that contributes the most to air pollution in comparison to all other industries.
+
 Q. Is there anything you find surprising or confusing?
+
+Answer 1. I am confused by what all is included in non-industry that makes it the biggest contributor of emissions for almost all pollutants. 
 
 Q. Who do you think is the intended audience for this?
 
+Answer 1. I am assuming this could be useful for researches conducting research into  air pollution/emissions.
+
 Q. Is there anything you would change or do differently?
 
-Person 2 
+Answer 1. I would remove non-industry from this chart altogether. I don’t think it tell’s me much about the non-industry emissions and downplays the role of energy supply industry in terms of emissions.
 
+
+#### Person 2 (mid- 20's, student)
 Q. Can you tell me what you think this is?
+
+Answer 2. I think it shows how different industries contribute to air pollution through different pollutants.
 
 Q. Can you describe to me what this is telling you?
 
+Answer 2. Except for non-industry emissions, Energy Supply has the highest emissions of pollutants in 2017.
+
 Q. Is there anything you find surprising or confusing?
+
+Answer 2. I am surprised to see that non-industry is contributing so much to air pollution. I am also surprised that there is no mention of the livestock farming as an industry here, given how much coverage is given to livestock contributing to certain emissions. If that is included in non-industry, how much of non-industry emissions are due to it?
 
 Q. Who do you think is the intended audience for this?
 
+Answer 2. Maybe governments, so they can formulate their policies accordingly. Especially those that have signed international treaties and committed to reducing many of these emissions.
+
 Q. Is there anything you would change or do differently?
+
+Answer 2. Add a more descriptive header, include labels for the axis
 
 
 Feedback from the class group critique
 
 - Add a filter so that if the audience wants to compare two pollutants at a time they can do that and it will also reduce the eye travel 
 - Add a heading that focuses more on the result of the visualization
+- Maybe add labels on the red bars with percentages
 
 
 ## Step five: Build your solution
@@ -127,18 +149,25 @@ Feedback from the class group critique
 Incorporating all the feeback I got, I used flourish to make a visualization of my sketch. 
 Florusih was simple to use and I was able to create excatly what I had in mind. One thing that took some time was adding data in a particular format that was required by flourish. In my original data set I had the pollutants in rows and the sectors in columns with their values. However, in order to create a grid of bar charts in Flourish that grouped the results indivudally for each pollutant I had to change my dataset in excel to have the sectors in rows and the pollutants in columns. 
 
-Once the main chart was created, I customized the colours to have the energy industry sector in red, non-industry sector in light grey and all other sectors in dark grey. This was to show that while non-industry is the highest contributor we are focusing on the emissions from the industry sectors and from the industry sectors primarily on the energy sector. 
+Once the main chart was created, I customized the colours to have the energy industry sector in red, non-industry sector in light grey and all other sectors in dark grey. This was to show that while non-industry is the highest contributor we are focusing on the emissions from the industry sectors and from the industry sectors primarily on the energy sector. I thought about removing the non-industry sector altogether as well in order to incorporate the feedback, but ended up keeping it because with the non-industry the percentages add up to a 100%. If this was emissions volume data I would have definetely excluded it but since the percentages are a part of the total I though maybe I should just keep it in grey. 
+
+The following is my visualization with non-industry removed:
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/12681117"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 
 I adjusted the layout of the chart according to my needs and added a filter that allows you to choose which pollutants you want to look at incorporated from class group feedback). 
 
-I also added a relevant heading incorporating the feedback I got " Energy Sector has the highest air emissions for EEA in 2017"
+I also added a relevant heading incorporating the feedback I got " Energy Sector has the highest air emissions for EEA in 2017" and added labels to axis.
 
 I included the notes and subtitle explaining how the percentages are calculated and what the EEA countries stand for. 
 
 I made sure all the numbers are consistent - the x axis shows percentages and the lable pop-ups also show percentages instead of decimal numbers like the original chart. 
 
-Ultimately I made the chart for an audience that would be able to look at it and see that if they want to control the emissions for a particular pollutant which industries are causing the most harm. This can allow policy makers to prioritize and make corrective policies for that industry sector specifically. 
+Ultimately I made the chart for an audience that would be able to look at it and see that if they want to control the emissions for a particular pollutant which sectors are causing the most harm. This can allow policy makers to prioritize and make corrective policies for that industry sector specifically. 
 This chart has greater perceptibility as it require less effort from the reader to make the comparisons. The less use of colour and focus on the energy sector also enhances the intuitiveness and aethetics. 
+
+## Final Visualization
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12666699"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
