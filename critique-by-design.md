@@ -137,7 +137,7 @@ Q. Is there anything you would change or do differently?
 Answer. Add a more descriptive header, include labels for the axis
 
 
-Feedback from the class group critique
+#### Feedback from the class group critique
 
 - Add a filter so that if the audience wants to compare two pollutants at a time they can do that and it will also reduce the eye travel 
 - Add a heading that focuses more on the result of the visualization
