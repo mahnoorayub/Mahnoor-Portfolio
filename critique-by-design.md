@@ -75,7 +75,7 @@ Instead of bars I had thought of using circles as a possible visualization. It w
 
 ![bubblechart](Screenshot 2023-02-07 at 2.15.20 PM.png)
 
-#### Grid of cbar-charts with axis inversed.
+#### Grid of bar-charts with axis inversed.
 This option I tried to see if I could group together the data for each sector instead of grouping together for each pollutant. This was able to show which pollutant each sector is the highest contributor for. But again here the problem was that the data is given in percentages. If the data was in the total amounts of emiisions then this could have been a good option to compare how much of each pollutant a specific sector is responsible for. The percentages in the data are a percentage of that pollutants total emissions and not a percentage of that sectors total pollution hence this was not a good option. 
 
 ![barcharts](Screenshot 2023-02-07 at 2.30.23 PM.png)
