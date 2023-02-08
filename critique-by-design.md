@@ -46,7 +46,7 @@ It is also hard to compare a single industry and see how much pollution it is ca
 
 The way the information is presented in terms of percentages also makes it hard to compare the pollutants with one another as it is showing the total 100% of the emissions of that pollutant but not the actual amount that is released. For example, from this chart you cannot tell whether there are greater emissions for CO2 or SOx which is critical information for the audience looking at this topic and thus reduces completeness and usefulness.
 
-### What would want to do differently?
+### What I would want to do differently?
 
 -	I would want to use a grid a of bar charts (or pie charts or bubble charts) to show each pollutant separately, so it is easier to understand and compare. 
 -	I would want to give a message out of this chart that is obvious in the heading for example “Energy Sector is the highest source of air emissions for most pollutants”. Through this I would keep the other low emission causing sectors greyed out and highlight this particular sector. This would also reduce the distracting colors in the chart and make it more appealing to the eye.
@@ -96,45 +96,45 @@ They gave the following responses
 #### Person 1 (mid- 20's, student)
 Q. Can you tell me what you think this is?
 
-Answer 1. Seems like a visualization for pollutant emissions for different industries.
+Answer. Seems like a visualization for pollutant emissions for different industries.
 
 Q. Can you describe to me what this is telling you?
 
-Answer 1. That energy supply is the industry that contributes the most to air pollution in comparison to all other industries.
+Answer. That energy supply is the industry that contributes the most to air pollution in comparison to all other industries.
 
 Q. Is there anything you find surprising or confusing?
 
-Answer 1. I am confused by what all is included in non-industry that makes it the biggest contributor of emissions for almost all pollutants. 
+Answer. I am confused by what all is included in non-industry that makes it the biggest contributor of emissions for almost all pollutants. 
 
 Q. Who do you think is the intended audience for this?
 
-Answer 1. I am assuming this could be useful for researches conducting research into  air pollution/emissions.
+Answer. I am assuming this could be useful for researches conducting research into  air pollution/emissions.
 
 Q. Is there anything you would change or do differently?
 
-Answer 1. I would remove non-industry from this chart altogether. I don’t think it tell’s me much about the non-industry emissions and downplays the role of energy supply industry in terms of emissions.
+Answer. I would remove non-industry from this chart altogether. I don’t think it tell’s me much about the non-industry emissions and downplays the role of energy supply industry in terms of emissions.
 
 
 #### Person 2 (mid- 20's, student)
 Q. Can you tell me what you think this is?
 
-Answer 2. I think it shows how different industries contribute to air pollution through different pollutants.
+Answer. I think it shows how different industries contribute to air pollution through different pollutants.
 
 Q. Can you describe to me what this is telling you?
 
-Answer 2. Except for non-industry emissions, Energy Supply has the highest emissions of pollutants in 2017.
+Answer. Except for non-industry emissions, Energy Supply has the highest emissions of pollutants in 2017.
 
 Q. Is there anything you find surprising or confusing?
 
-Answer 2. I am surprised to see that non-industry is contributing so much to air pollution. I am also surprised that there is no mention of the livestock farming as an industry here, given how much coverage is given to livestock contributing to certain emissions. If that is included in non-industry, how much of non-industry emissions are due to it?
+Answer. I am surprised to see that non-industry is contributing so much to air pollution. I am also surprised that there is no mention of the livestock farming as an industry here, given how much coverage is given to livestock contributing to certain emissions. If that is included in non-industry, how much of non-industry emissions are due to it?
 
 Q. Who do you think is the intended audience for this?
 
-Answer 2. Maybe governments, so they can formulate their policies accordingly. Especially those that have signed international treaties and committed to reducing many of these emissions.
+Answer. Maybe governments, so they can formulate their policies accordingly. Especially those that have signed international treaties and committed to reducing many of these emissions.
 
 Q. Is there anything you would change or do differently?
 
-Answer 2. Add a more descriptive header, include labels for the axis
+Answer. Add a more descriptive header, include labels for the axis
 
 
 Feedback from the class group critique
