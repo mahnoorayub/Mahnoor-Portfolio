@@ -18,17 +18,23 @@ Examining these features can help policy makers take effective actions to regula
 
 Line graphs for showing the increase in the usage of e-ciggerates over the years 
 
+![linegraph](linegraph.jpeg)
 
 Bar chart showing the percentages of use of e-ciggerates among students 
 
-
-
+![infographic](infographic.jpeg)
 Bar chart/ pie chart for showing the type of product use 
+
+![piechart](piechart.jpeg)
 
 
 Sample inforgrapic 
 
+![barchart2](barchchart2.jpeg)
+
 Nearly 2 in 5 12-grade students report vaping in the past year 
+
+![barchart1](barchart(1).jpeg)
 
 ### Data Sources
 
