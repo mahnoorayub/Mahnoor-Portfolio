@@ -19,7 +19,7 @@ Examining these features can help policy makers take effective actions to regula
 
 I have created some initial sketches to present the various trends I want to show. 
 
-The first sketch is showing a line graph that depicts how the usage for e-cigarretes first declined between 2015-2017 after which we see a rise again. The highest usage can be seen among the 12th grade students. 
+The first sketch is showing a line graph that depicts how the usage for e-cigarettes first declined between 2015-2017 after which we see a rise again. The highest usage can be seen among the 12th grade students. 
 
 ![linegraph](linegraph.jpeg)
 
@@ -27,20 +27,20 @@ The following visualization shows the prevalence on the use of E-cigarettes amon
 
 ![infographic](Screenshot 2023-02-13 at 5.30.58 PM.png)
 
-The following bar-chart shows the comparison of what the users are mostly smoking with these e-cigarrets, whether they contain nicotine, marijuana or just flavouring. We can see the highest percentage is for nicotine which is concerning as it leads to addiction. 
+The following bar-chart shows the comparison of what the users are mostly smoking with these e-cigarettes, whether they contain nicotine, marijuana or just flavouring. We can see the highest percentage is for nicotine which is concerning as it leads to addiction. 
 
 ![barchart1](barchart(1).jpeg)
 
-Next we have a bar-chart showing the comparison of use between cigarettes and e-cigarettes among the US youth. As we can we the use of cigarettes is comparitively much higher for all groups. 
+Next we have a bar-chart showing the comparison of use between cigarettes and e-cigarettes among the US youth. As we can we the use of e-cigarettes is comparitively much higher for all groups. 
 
 ![barchart2](barchchart2.jpeg)
 
-Lastly I have a pie-chart showing the market share of the type of products. These e-cigarrets come in various different forms with the main ones being modular, rechargeable or disposable devices. We can see that the modular devices have the highest market share.
+Lastly I have a pie-chart showing the market share of the type of products. These e-cigarettes come in various different forms with the main ones being modular, rechargeable or disposable devices. We can see that the modular devices have the highest market share.
 
 ![piechart](piechart.jpeg)
 
 
-These are some of the initial sketches and I as play around with more data I will create subsequents visualizations that are in line with my story and analysis. 
+These are some of the initial sketches and I as play around with more data I will create subsequent visualizations that are in line with my story and analysis. 
 
 ### Data Sources
 
