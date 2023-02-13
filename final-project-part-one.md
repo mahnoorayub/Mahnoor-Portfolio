@@ -29,15 +29,15 @@ The following visualization shows the prevalence on the use of E-cigarettes amon
 
 The following bar-chart shows the comparison of what the users are mostly smoking with these e-cigarettes, whether they contain nicotine, marijuana or just flavouring. We can see the highest percentage is for nicotine which is concerning as it leads to addiction. 
 
-![barchart1](barchart(1).jpeg)
+![barchart1](Screenshot 2023-02-13 at 5.38.16 PM.png)
 
 Next we have a bar-chart showing the comparison of use between cigarettes and e-cigarettes among the US youth. As we can we the use of e-cigarettes is comparitively much higher for all groups. 
 
-![barchart2](barchchart2.jpeg)
+![barchart2](Screenshot 2023-02-13 at 5.38.37 PM.png)
 
 Lastly I have a pie-chart showing the market share of the type of products. These e-cigarettes come in various different forms with the main ones being modular, rechargeable or disposable devices. We can see that the modular devices have the highest market share.
 
-![piechart](piechart.jpeg)
+![piechart](Screenshot 2023-02-13 at 5.37.59 PM.png)
 
 
 These are some of the initial sketches and I as play around with more data I will create subsequent visualizations that are in line with my story and analysis. 
