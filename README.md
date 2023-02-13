@@ -29,7 +29,9 @@ This section will include the class assignments and project.
 ## [Assignment 3&4: Critique by Design](critique-by-design.md)
  
 
-## Final project
+## [Final Project Part I](final-project-part-one.md)
+
+## [Final Project Part II](final-project-part-two.md)
 
 
 
