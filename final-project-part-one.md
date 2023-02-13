@@ -25,7 +25,7 @@ The first sketch is showing a line graph that depicts how the usage for e-cigarr
 
 The following visualization shows the prevalence on the use of E-cigarettes among the 12th graders to show the urgency as nearly 2 out of every 5 12th graders say they have used a similar product over the past year. 
 
-![infographic](infographic.jpeg)
+![infographic](Screenshot 2023-02-13 at 5.30.58 PM.png)
 
 The following bar-chart shows the comparison of what the users are mostly smoking with these e-cigarrets, whether they contain nicotine, marijuana or just flavouring. We can see the highest percentage is for nicotine which is concerning as it leads to addiction. 
 
