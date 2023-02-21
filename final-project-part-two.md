@@ -43,7 +43,7 @@ Q6. Do you have any suggestions for improvement?
 	
 	
        
-### Key Finding From Interviews
+### Key Findings From Interviews
 
 The most important feedback I got from the interviews was regarding the structure of the story. It seems that currently I have just added all the information and visualizations but they do not flow to tell a story which is why I should group similar information together and make more distinct sections. I should also work on the transitions from one aspect of the story to another. Some of my visualizations also need refining in terms of the labels used particularly the world map where I need to mention that the numbers are in million dollars. I also need to organize the statistics I have put in and stick to only the important ones.  
 
@@ -51,7 +51,7 @@ The most important feedback I got from the interviews was regarding the structur
 The feedback was similar to what I got from the interviews regarding improving the structure of the story. I was also told to reduce the text slides in the start and perhaps use infogram to present some of my statistics with visualizations instead of just listing them. I was also given the suggestion to add some comparative analysis on why the issue of e-cigarettes is as important as the traditional tobacco products. I learnt some features regarding shorhand that I was struggling with particularly embedding the flourish graphs directly in the text columns. Another suggestion was to have a more detailed call to action section for which I had currently just added placeholders. 
 
 
-### Improvements to be made based on feedback
+## Improvements to be made based on feedback
 
 1. I will structure the story to start with a background of what e-cigarettes are, then move on to the statistics regarding the increased use, from there discuss the health implications and why an action is needed and then finally discuss what steps are currently being taken and what can be taken in the future. 
 2. I will also improve the headings and labels for my visualizations 
