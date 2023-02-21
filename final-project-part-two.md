@@ -6,7 +6,7 @@
 
 The storyboard link can be found here. 
 
-I used shorthand to create my storyboard outline. The reason for this was so I could learn the tool before the final week and also see what my presentation would eventually look like. Using shorthand really helped me see how the information should flow and what more charts and research I need. I tested my visualizations in both Flourish and Tableau and after testing them with shorthand I realized it was easier to work with the charts made in Flourish. Using shorthand also allowed me to put placeholder information in areas I still need to work while making it easier for my user research audience to follow along and understand what I am eventually planning to do. 
+I used shorthand to create my storyboard outline. The reason for this was so I could learn the tool before the final week and also see what my presentation would eventually look like. Using shorthand really helped me see how the information should flow and what more charts and research I need. I tested my visualizations in both Flourish and Tableau and after embedding them in shorthand I realized it was easier to work with the charts made in Flourish. Using shorthand also allowed me to put placeholder information in areas I still need to work while making it easier for my user research audience to follow along and understand what I am eventually planning to do. 
 
 
 ## User Research 
@@ -17,7 +17,7 @@ The target audience of my story are the people who can take an action to control
 
 ### Approach to identifying representative individuals to interview
 
-I tried to find individuals from different backgrounds and age groups so I could get varying perspectives. It was hard to hard to find people who actually present my target audience but I tried to use indivuals who use vaping products and also those who dont, I included someone who has young children and then someone who is currently a student working on such policy issues. 
+I tried to find individuals from different backgrounds and age groups so I could get varying perspectives. It was hard to find people who actually present my target audience but I tried to use indivuals who use vaping products and also those who dont, I included someone who is currently a student working on such policy issues and a another student focuing on data analytics. All the people I interviewed where between the age group of 24-30 years. 
 
 
 ### Interview script
@@ -43,7 +43,20 @@ Q6. Do you have any suggestions for improvement?
 	
 	
        
+### Key Finding From Interviews
 
+The most important feedback I got from the interviews was regarding the structure of the story. It seems that currently I have just added all the information and visualizations but they do not flow to tell a story which is why I should group similar information together and make more distinct sections. I should also work on the transitions from one aspect of the story to another. Some of my visualizations also need refining in terms of the labels used particularly the world map where I need to mention that the numbers are in million dollars. I also need to organize the statistics I have put in and stick to only the important ones.  
+
+### Key findings from in-class critique
+The feedback was similar to what I got from the interviews regarding improving the structure of the story. I was also told to reduce the text slides in the start and perhaps use infogram to present some of my statistics with visualizations instead of just listing them. I was also given the suggestion to add some comparative analysis on why the issue of e-cigarettes is as important as the traditional tobacco products. I learnt some features regarding shorhand that I was struggling with particularly embedding the flourish graphs directly in the text columns. Another suggestion was to have a more detailed call to action section for which I had currently just added placeholders. 
+
+
+### Improvements to be made based on feedback
+
+1. I will structure the story to start with a background of what e-cigarettes are, then move on to the statistics regarding the increased use, from there discuss the health implications and why an action is needed and then finally discuss what steps are currently being taken and what can be taken in the future. 
+2. I will also improve the headings and labels for my visualizations 
+3. I have to add a hook slide in the start to engage the audience and get their attention 
+4. Lastly I need to focus on the call to action slides where I need to add links for places that can help with this cause. 
 
 
 
