@@ -32,32 +32,25 @@ Q6. Do you have any suggestions for improvement?
 
 
 
-| Questions    | Type of pet | Favority activity 1 | FA 2   | FA 3            | FA 4                                |
-|--------------|-------------|---------------------|--------|-----------------|-------------------------------------|
-| Q1. At first glance, what do you understand about the storyboard?        | cat         | Sleeping            | Eating | Being pet       | Plotting to overthow dog empire     |
-| Q2. What is this this story trying to tell? Do you think the message is clear?      | dog         | You                 | You    | You             | Eating                              |
-| Frankenstein | fish        | Swimming            | Eating | Blowing bubbles | Forgetting                          |
-
-Questions	Interviewee 1 	Interviewee 2	Interviewee 3
-Q1. At first glance, what do you understand about the storyboard? 
-	It appears to be a presentation on the hazards of E-cigs particularly for the youth in US, and the need to address them.	It is a research project on vape usage among US youth.	It is discussing the increase in e-cigarettes among US students
-Q2. What is this this story trying to tell? Do you think the message is clear? 
-	It seems the story is trying to scale the problem, and use it to create urgency. The message seems to be clear.	The story is about understanding the the issue of e cigarettes. And the message seems obvious.	It is trying to tell how the usage of vapes is rising and how it is harmful. 
-Q3. What do you think about the structure and flow of the story? 
-	The structure and flow probably need to be reviewed. There seems to be an incoherence as we move from usage statistics to what a vape looks like and then back to more usage statistics. 	I felt the flow was missing in this. A lot of information compiled that can be structured in a better way. 	I feel there should be more structured sections first about introducing what vapes are, then discussing the statistics and then the health concerns and other information.
-Q4. Is there something you find particularly interesting? Why? 
-	I find it interesting that within 7 years vapes were able to out perform the competition with a much longer market presence/legacy.	The fact that the e-cigarette market share is so much bigger than the competitors, and that US is the biggest market is definitely insightful. 	I am surprised to learn that more people use vapes than normal cigarettes, that graph was super interesting
-
-Q5. Is there something you find confusing or misleading? Why? 
-	I didn’t fully understand the point on FDA. How is oral consumption different from inhalation?	Is the study implying that e-cigs are the new “gateway drug”? Bigger than regular cigarettes, as commonly believed? 	The map with market size does not mention what the values are referring to which is confusing. There are also too many statistics listed towards the end that are hard to remember
-Q6. Do you have any suggestions for improvement?
-	1.	Make information flow from one point to the next
-2.	Make sure the project is self-explanatory and doesn’t require someone to present
-	I would say there should citations, to make the research more credible and trustworthy. Maybe have a section that discusses how and where kids are most likely influenced into using vapes, to better assimilate the “How can you help?” section at the end.	1.	Follow a more structured approach for the sections. 
+| Questions    | Interview 1 | Interview 2 | Interview 3   | 
+|--------------|-------------|---------------------|--------|
+| Q1. At first glance, what do you understand about the storyboard?        | t appears to be a presentation on the hazards of E-cigs particularly for the youth in US, and the need to address them       | It is a research project on vape usage among US youth         | It is discussing the increase in e-cigarettes among US students     | 
+| Q2. What is this this story trying to tell? Do you think the message is clear?      | It seems the story is trying to scale the problem, and use it to create urgency. The message seems to be clear.        | The story is about understanding the the issue of e cigarettes. And the message seems obvious               |It is trying to tell how the usage of vapes is rising and how it is harmful.   | 
+| Q3. What do you think about the structure and flow of the story?  | The structure and flow probably need to be reviewed. There seems to be an incoherence as we move from usage statistics to what a vape looks like and then back to more usage statistics.      | I felt the flow was missing in this. A lot of information compiled that can be structured in a better way.          | I feel there should be more structured sections first about introducing what vapes are, then discussing the statistics and then the health concerns and other information.| Blowing bubbles |
+| Q4. Is there something you find particularly interesting? Why?  |I find it interesting that within 7 years vapes were able to out perform the competition with a much longer market presence/legacy.       | 
+	I find it interesting that within 7 years vapes were able to out perform the competition with a much longer market presence/legacy.	The fact that the e-cigarette market share is so much bigger than the competitors, and that US is the biggest market is definitely insightful.     | 	I am surprised to learn that more people use vapes than normal cigarettes, that graph was super interesting| 
+| Q5. Is there something you find confusing or misleading? Why? | I didn’t fully understand the point on FDA. How is oral consumption different from inhalation?  | Is the study implying that e-cigs are the new “gateway drug”? Bigger than regular cigarettes, as commonly believed?        | The map with market size does not mention what the values are referring to which is confusing. There are also too many statistics listed towards the end that are hard to remember|                         
+| Q6. Do you have any suggestions for improvement?| 1.	Make information flow from one point to the next
+2.	Make sure the project is self-explanatory and doesn’t require someone to present| I would say there should citations, to make the research more credible and trustworthy. Maybe have a section that discusses how and where kids are most likely influenced into using vapes, to better assimilate the “How can you help?” section at the end.        |	1.	Follow a more structured approach for the sections. 
 2.	Refine the labels on the graphs showing what they stand for
 3.	Reduce the wording on some slides 
-4.	Instead of listing the statistics make them more impactful
+4.	Instead of listing the statistics make them more impactful|             
 
-![image](https://user-images.githubusercontent.com/116768418/220217826-f3657802-981d-44a5-a68e-517ef0d5f4bd.png)
+
+
+
+
+
+
 
 
