@@ -1,10 +1,10 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://mahnoorayub.github.io/Mahnoor-Portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Final Project Part 2
 
 ## Wireframes and storyboards
 
-The storyboard link can be found here. 
+The storyboard link can be found [here](<script src="https://carnegiemellon.shorthandstories.com/rise-of-e-cigarettes-among-us-youth/embed.js"></script>)
 
 I used shorthand to create my storyboard outline. The reason for this was so I could learn the tool before the final week and also see what my presentation would eventually look like. Using shorthand really helped me see how the information should flow and what more charts and research I need. I tested my visualizations in both Flourish and Tableau and after embedding them in shorthand I realized it was easier to work with the charts made in Flourish. Using shorthand also allowed me to put placeholder information in areas I still need to work while making it easier for my user research audience to follow along and understand what I am eventually planning to do. 
 
@@ -56,12 +56,13 @@ The feedback was similar to what I got from the interviews regarding improving t
 1. I will structure the story to start with a background of what e-cigarettes are, then move on to the statistics regarding the increased use, from there discuss the health implications and why an action is needed and then finally discuss what steps are currently being taken and what can be taken in the future. 
 2. I will also improve the headings and labels for my visualizations 
 3. I have to add a hook slide in the start to engage the audience and get their attention 
-4. Lastly I need to focus on the call to action slides where I need to add links for places that can help with this cause. 
+4. I need to add citations for my statistics and references page at the end
+5. Lastly I need to focus on the call to action slides where I need to add links for places that can help with this cause. 
 
 
 
 
-
+## [Back to project part 1](final-project-part-one)
 
 
 
