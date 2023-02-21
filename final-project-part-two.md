@@ -30,6 +30,14 @@ Q6. Do you have any suggestions for improvement?
 
 ### Findings from Interviews
 
+
+
+| Questions    | Type of pet | Favority activity 1 | FA 2   | FA 3            | FA 4                                |
+|--------------|-------------|---------------------|--------|-----------------|-------------------------------------|
+| Q1. At first glance, what do you understand about the storyboard?        | cat         | Sleeping            | Eating | Being pet       | Plotting to overthow dog empire     |
+| Q2. What is this this story trying to tell? Do you think the message is clear?      | dog         | You                 | You    | You             | Eating                              |
+| Frankenstein | fish        | Swimming            | Eating | Blowing bubbles | Forgetting                          |
+
 Questions	Interviewee 1 	Interviewee 2	Interviewee 3
 Q1. At first glance, what do you understand about the storyboard? 
 	It appears to be a presentation on the hazards of E-cigs particularly for the youth in US, and the need to address them.	It is a research project on vape usage among US youth.	It is discussing the increase in e-cigarettes among US students
