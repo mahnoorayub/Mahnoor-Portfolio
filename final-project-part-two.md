@@ -4,7 +4,7 @@
 
 ## Wireframes and storyboards
 
-The storyboard link can be found [here](<script src="https://carnegiemellon.shorthandstories.com/rise-of-e-cigarettes-among-us-youth/embed.js"></script>)
+The storyboard link can be found [here](https://carnegiemellon.shorthandstories.com/rise-of-e-cigarettes-among-us-youth/index.html)
 
 I used shorthand to create my storyboard outline. The reason for this was so I could learn the tool before the final week and also see what my presentation would eventually look like. Using shorthand really helped me see how the information should flow and what more charts and research I need. I tested my visualizations in both Flourish and Tableau and after embedding them in shorthand I realized it was easier to work with the charts made in Flourish. Using shorthand also allowed me to put placeholder information in areas I still need to work while making it easier for my user research audience to follow along and understand what I am eventually planning to do. 
 
