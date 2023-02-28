@@ -35,7 +35,7 @@ I have also added information highlighting why the young people are so attracted
 
 Lastly I have added a call to action section which provides steps parents, teachers and public officials can take. I have also linked resources that can be used for help. This section developed a lot since part II and I was able to find great resources that can be linked for an effective call to action section. These resources included programs to kids to join if they want to quit vaping, programs where parents can learn how to talk to children about the dangers of e-cigarettes and geneal resources that can help you learn more about the topic. 
 
-I finally added a references section where I provided all citations. I also made sure that I provide the sources on the slides and also on the visualizations. 
+I finally added a references section where I provided all citations. I also made sure that I provide the sources on the slides and also on the visualizations. The main sources for my information were Centers for Disease Control and Prevention, National Youth Tobacco Surveys, National Institute on Drug Abuse, University of Michigan Monitoring the Future Survey, Tax Foundation and Truth Foundation that are all linked in my final presentation. 
 
 I also added an Appendix section which is discussed below. 
 
@@ -61,6 +61,7 @@ I was able to learn how to tell a compelling story about an important topic and 
 ## Link to previous project parts
 
 [Final project part I](final-project-part-one)
+
 [Final project part II](final-project-part-two) 
 
 
