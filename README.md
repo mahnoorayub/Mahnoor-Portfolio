@@ -33,5 +33,5 @@ This section will include the class assignments and project.
 
 ## [Final Project Part II](final-project-part-two.md)
 
-
+## [Final Project Part II](final-project-part-three.md)
 
