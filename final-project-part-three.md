@@ -64,4 +64,5 @@ I was able to learn how to tell a compelling story about an important topic and 
 
 [Final project part II](final-project-part-two) 
 
+[Final project part III](final-project-part-three) 
 
